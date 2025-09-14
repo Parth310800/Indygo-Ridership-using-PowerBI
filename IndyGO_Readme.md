@@ -4,9 +4,9 @@
 
 ## Project Overview
 
-This project presents a dynamic and interactive Power BI dashboard developed to analyze and visualize ridership data for the IndyGo transit system. [cite\_start]Created in collaboration with IndyGo and the IU Luddy School of Informatics, Computing, and Engineering, this business intelligence tool transforms raw ridership data into actionable insights. [cite: 3]
+This project presents a dynamic and interactive Power BI dashboard developed to analyze and visualize ridership data for the IndyGo transit system. Created in collaboration with IndyGo and the IU Luddy School of Informatics, Computing, and Engineering, this business intelligence tool transforms raw ridership data into actionable insights. 
 
-[cite\_start]The primary objective is to empower a diverse group of stakeholders—from transit planners and policymakers to the general public—with a data-driven platform for strategic decision-making, operational optimization, and enhanced public engagement. [cite: 12, 15, 17, 19, 21]
+The primary objective is to empower a diverse group of stakeholders—from transit planners and policymakers to the general public—with a data-driven platform for strategic decision-making, operational optimization, and enhanced public engagement. 
 
   - **Live Dashboard Visualization:** [Link to your deployed Power BI dashboard]
   - [cite\_start]**Project Data & Assets:** [Link to your project data folder] [cite: 55]
